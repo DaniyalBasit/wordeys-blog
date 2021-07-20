@@ -5,5 +5,5 @@
 @tailwind utilities;
 
 .image-fill {
-  object-fit: 'cover';
+  object-fit: cover;
 }
