@@ -4,6 +4,6 @@
 /* purgecss end ignore */
 @tailwind utilities;
 
-.image-cover {
+.image-fill {
   object-fit: 'cover';
 }
