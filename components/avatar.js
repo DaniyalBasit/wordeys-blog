@@ -9,6 +9,7 @@ export default function Avatar({ name, picture }) {
           layout="fill"
           className="rounded-full"
           alt={name}
+          style={{ objectFit: 'cover' }}
         />
       </div>
       <div className="text-xl font-bold">{name}</div>
