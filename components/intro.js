@@ -7,7 +7,7 @@ export default function Intro() {
         Wordeys
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A blog language learners.
+        A blog for language learners.
       </h4>
     </section>
   )
