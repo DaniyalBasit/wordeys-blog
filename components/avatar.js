@@ -7,9 +7,8 @@ export default function Avatar({ name, picture }) {
         <Image
           src={picture.url}
           layout="fill"
-          className="rounded-full"
+          className="rounded-full image-fill"
           alt={name}
-          style={{ objectFit: 'cover' }}
         />
       </div>
       <div className="text-xl font-bold">{name}</div>
